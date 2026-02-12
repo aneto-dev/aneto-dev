@@ -6,14 +6,14 @@
 
 ## About
 
-I design and build production-grade backend systems focused on:
+I design and operate production-grade backend systems focused on:
 
 - Reliability and safe deployments  
 - Observability by default  
 - Distributed systems architecture  
 - ML systems deployed into real operational workflows  
 
-My work blends backend engineering, event-driven design, and production observability practices.
+My work blends backend engineering, event-driven design, and production-grade observability practices.
 
 I focus on building observable, resilient systems designed for safe evolution at scale.
 
@@ -73,8 +73,6 @@ For the most important work, see the pinned repositories above.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
-
-## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aneto-dev&theme=radical" />
