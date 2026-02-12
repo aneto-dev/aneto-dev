@@ -27,18 +27,27 @@ My work blends backend engineering, event-driven design, and production observab
 
 ---
 
-## 🏗 Featured Projects
+## Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=ml-observable-prediction-platform&theme=radical)](https://github.com/aneto-dev/ml-observable-prediction-platform)
+<p align="center">
+  <a href="https://github.com/aneto-dev/ml-observable-prediction-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=ml-observable-prediction-platform&theme=radical" />
+  </a>
+  <a href="https://github.com/aneto-dev/dotnet-observability-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=dotnet-observability-api&theme=radical" />
+  </a>
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=dotnet-observability-api&theme=radical)](https://github.com/aneto-dev/dotnet-observability-api)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=eventflow-event-driven-system&theme=radical)](https://github.com/aneto-dev/eventflow-event-driven-system)
+<p align="center">
+  <a href="https://github.com/aneto-dev/eventflow-event-driven-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=eventflow-event-driven-system&theme=radical" />
+  </a>
+</p>
 
 
 ---
 
-## 🛠 Core Stack
+## Core Stack
 
 ### Backend
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -60,19 +69,19 @@ My work blends backend engineering, event-driven design, and production observab
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aneto-dev&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aneto-dev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneto-dev&theme=radical" />
 </p>
 
 ---
 
-## 📫 Connect
+## Connect
 
 LinkedIn: https://linkedin.com/in/aires-neto-2750b2b0  
 GitHub: https://github.com/aneto-dev
