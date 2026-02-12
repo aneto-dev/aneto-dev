@@ -1,17 +1,10 @@
 <p align="center">
-  <img src="banner.png" />
-</p>
-
-<h1 align="center">Aires Neto</h1>
-<h3 align="center">Senior Backend & Distributed Systems Engineer</h3>
-
-<p align="center">
-.NET • Event-Driven Architecture • Observability • ML in Production
+  <img src="banner.png" width="100%" />
 </p>
 
 ---
 
-## 🚀 About Me
+##  About
 
 I design and build production-grade backend systems with a focus on:
 
@@ -24,7 +17,7 @@ My work blends backend engineering, event-driven design, and production observab
 
 ---
 
-## 🧠 Engineering Philosophy
+## Engineering Philosophy
 
 - Design for operability, not just correctness  
 - Ship safely using progressive rollout strategies  
@@ -41,6 +34,7 @@ My work blends backend engineering, event-driven design, and production observab
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=dotnet-observability-api&theme=radical)](https://github.com/aneto-dev/dotnet-observability-api)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=eventflow-event-driven-system&theme=radical)](https://github.com/aneto-dev/eventflow-event-driven-system)
+
 
 ---
 
@@ -73,7 +67,7 @@ My work blends backend engineering, event-driven design, and production observab
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneto-dev&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aneto-dev&show_icons=true&theme=radical" />
 </p>
 
 ---
