@@ -76,11 +76,11 @@ Selected systems demonstrating production observability, distributed workflows, 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aneto-dev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aneto-dev&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneto-dev&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=aneto-dev&theme=radical" />
 </p>
 
 ---
