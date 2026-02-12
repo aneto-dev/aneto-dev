@@ -4,9 +4,9 @@
 
 ---
 
-##  About
+## About
 
-I design and build production-grade backend systems with a focus on:
+I design and build production-grade backend systems focused on:
 
 - Reliability and safe deployments  
 - Observability by default  
@@ -14,6 +14,8 @@ I design and build production-grade backend systems with a focus on:
 - ML systems deployed into real operational workflows  
 
 My work blends backend engineering, event-driven design, and production observability practices.
+
+I focus on building observable, resilient systems designed for safe evolution at scale.
 
 ---
 
@@ -28,6 +30,8 @@ My work blends backend engineering, event-driven design, and production observab
 ---
 
 ## Featured Projects
+
+Selected systems demonstrating production observability, distributed workflows, and ML in deployment.
 
 <p align="center">
   <a href="https://github.com/aneto-dev/ml-observable-prediction-platform">
@@ -44,17 +48,16 @@ My work blends backend engineering, event-driven design, and production observab
   </a>
 </p>
 
-
 ---
 
 ## Core Stack
 
-### Backend
+### Backend & APIs
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Messaging & Architecture
+### Messaging
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### Observability
@@ -62,7 +65,7 @@ My work blends backend engineering, event-driven design, and production observab
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### DevOps
+### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -83,5 +86,5 @@ My work blends backend engineering, event-driven design, and production observab
 
 ## Connect
 
-LinkedIn: https://linkedin.com/in/aires-neto-2750b2b0  
-GitHub: https://github.com/aneto-dev
+- LinkedIn: https://linkedin.com/in/aires-neto-2750b2b0  
+- GitHub: https://github.com/aneto-dev
