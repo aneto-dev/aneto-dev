@@ -4,18 +4,18 @@
 
 ---
 
-## About
+## 👋 Hi, I'm Aires
 
-I design and operate production-grade backend systems focused on:
+Senior Backend & Distributed Systems Engineer focused on building observable, resilient systems in production.
 
-- Reliability and safe deployments  
-- Observability by default  
-- Distributed systems architecture  
-- ML systems deployed into real operational workflows  
+I design systems that:
 
-My work blends backend engineering, event-driven design, and production-grade observability practices.
+- Fail safely  
+- Ship incrementally  
+- Are measurable by default  
+- Evolve without fear  
 
-I focus on building observable, resilient systems designed for safe evolution at scale.
+My work spans event-driven architecture, ML systems in production, and full-stack delivery — but always with operability and reliability at the core.
 
 ---
 
@@ -29,18 +29,32 @@ I focus on building observable, resilient systems designed for safe evolution at
 
 ---
 
-## Featured Projects
+## 🏗 Featured Systems
 
-Selected systems demonstrating production observability, distributed workflows, and ML in deployment.
+### 🔹 ML Observable Prediction Platform
+Production-ready ML system with:
+- Shadow traffic rollout
+- Drift monitoring
+- Kill-switch mechanisms
+- Full tracing and metrics
 
-- **ML Observable Prediction Platform** — Safe model rollout patterns (shadow traffic), drift monitoring, and full instrumentation.  
-  https://github.com/aneto-dev/ml-observable-prediction-platform
+Designed to treat ML as production software — not experimentation.
 
-- **.NET Observability API** — ASP.NET Core service with OpenTelemetry tracing, Prometheus metrics, and Grafana dashboards.  
-  https://github.com/aneto-dev/dotnet-observability-api
+### 🔹 .NET Observability API
+ASP.NET Core API instrumented with:
+- OpenTelemetry tracing
+- Prometheus metrics
+- Grafana dashboards
+- Structured logging
 
-- **Event-Driven Microservices System** — RabbitMQ-based workflows with reliability patterns (retries, idempotency, outbox-style thinking).  
-  https://github.com/aneto-dev/eventflow-event-driven-system
+Built to demonstrate production-grade observability from day one.
+
+### 🔹 Event-Driven Microservices System
+RabbitMQ-based architecture implementing:
+- Transactional outbox
+- Idempotent consumers
+- Retry and backoff strategies
+- Distributed observability
 
 ---
 
