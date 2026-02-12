@@ -1,47 +1,84 @@
-<h1>Hi, I'm Aires! <br/><a href="https://github.com/aneto-dev">Programmer</a>, <a href="https://www.linkedin.com/in/aires-neto-2750b2b0">Software Developer Professional</a>
+<p align="center">
+  <img src="banner.png" />
+</p>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h1 align="center">Aires Neto</h1>
+<h3 align="center">Senior Backend & Distributed Systems Engineer</h3>
 
-<!--  - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)  -->
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Currency Converter](https://github.com/aneto-dev/netwealth-currency-demo) <b><i>(Demo)</b></i>
-<!-- - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email) -->
+<p align="center">
+.NET • Event-Driven Architecture • Observability • ML in Production
+</p>
 
+---
 
-<!-- <h2>📺 Popular YouTube Videos</h2>
+## 🚀 About Me
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)  -->
+I design and build production-grade backend systems with a focus on:
 
-<h2> 🤳 Connect with me:</h2>
+- Reliability and safe deployments  
+- Observability by default  
+- Distributed systems architecture  
+- ML systems deployed into real operational workflows  
 
-[<img align="left" alt="AiresNeto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+My work blends backend engineering, event-driven design, and production observability practices.
 
-[linkedin]: https://www.linkedin.com/in/aires-neto-2750b2b0
+---
 
-<!--
-**aneto-dev/aneto-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Engineering Philosophy
 
-Here are some ideas to get you started:
+- Design for operability, not just correctness  
+- Ship safely using progressive rollout strategies  
+- Make trade-offs explicit  
+- Prefer simple systems with strong observability  
+- Treat ML systems as production software, not experiments  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏗 Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=ml-observable-prediction-platform&theme=radical)](https://github.com/aneto-dev/ml-observable-prediction-platform)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=dotnet-observability-api&theme=radical)](https://github.com/aneto-dev/dotnet-observability-api)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=eventflow-event-driven-system&theme=radical)](https://github.com/aneto-dev/eventflow-event-driven-system)
+
+---
+
+## 🛠 Core Stack
+
+### Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Messaging & Architecture
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### Observability
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aneto-dev&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneto-dev&theme=radical" />
+</p>
+
+---
+
+## 📫 Connect
+
+LinkedIn: https://linkedin.com/in/aires-neto-2750b2b0  
+GitHub: https://github.com/aneto-dev
