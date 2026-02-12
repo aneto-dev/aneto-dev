@@ -33,20 +33,21 @@ I focus on building observable, resilient systems designed for safe evolution at
 
 Selected systems demonstrating production observability, distributed workflows, and ML in deployment.
 
-<p align="center">
-  <a href="https://github.com/aneto-dev/ml-observable-prediction-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=ml-observable-prediction-platform&theme=radical&cache_seconds=1800" />
-  </a>
-  <a href="https://github.com/aneto-dev/dotnet-observability-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=dotnet-observability-api&theme=radical&cache_seconds=1800" />
-  </a>
-</p>
+- **ML Observable Prediction Platform** — Safe model rollout patterns (shadow traffic), drift monitoring, and full instrumentation.  
+  https://github.com/aneto-dev/ml-observable-prediction-platform
 
-<p align="center">
-  <a href="https://github.com/aneto-dev/eventflow-event-driven-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=eventflow-event-driven-system&theme=radical&cache_seconds=1800" />
-  </a>
-</p>
+- **.NET Observability API** — ASP.NET Core service with OpenTelemetry tracing, Prometheus metrics, and Grafana dashboards.  
+  https://github.com/aneto-dev/dotnet-observability-api
+
+- **Event-Driven Microservices System** — RabbitMQ-based workflows with reliability patterns (retries, idempotency, outbox-style thinking).  
+  https://github.com/aneto-dev/eventflow-event-driven-system
+
+---
+
+## GitHub Activity
+
+I keep this profile focused on production-quality projects and documentation.  
+For the most important work, see the pinned repositories above.
 
 
 ---
@@ -74,10 +75,6 @@ Selected systems demonstrating production observability, distributed workflows, 
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aneto-dev&show_icons=true&theme=radical&cache_seconds=1800" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aneto-dev&theme=radical" />
