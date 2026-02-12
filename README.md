@@ -35,18 +35,19 @@ Selected systems demonstrating production observability, distributed workflows, 
 
 <p align="center">
   <a href="https://github.com/aneto-dev/ml-observable-prediction-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=ml-observable-prediction-platform&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=ml-observable-prediction-platform&theme=radical&cache_seconds=1800" />
   </a>
   <a href="https://github.com/aneto-dev/dotnet-observability-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=dotnet-observability-api&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=dotnet-observability-api&theme=radical&cache_seconds=1800" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/aneto-dev/eventflow-event-driven-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=eventflow-event-driven-system&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aneto-dev&repo=eventflow-event-driven-system&theme=radical&cache_seconds=1800" />
   </a>
 </p>
+
 
 ---
 
