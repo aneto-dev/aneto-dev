@@ -19,16 +19,6 @@ My work spans event-driven architecture, ML systems in production, and full-stac
 
 ---
 
-## Engineering Philosophy
-
-- Design for operability, not just correctness  
-- Ship safely using progressive rollout strategies  
-- Make trade-offs explicit  
-- Prefer simple systems with strong observability  
-- Treat ML systems as production software, not experiments  
-
----
-
 ## 🏗 Featured Systems
 
 ### 🔹 ML Observable Prediction Platform
