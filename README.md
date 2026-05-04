@@ -2,49 +2,116 @@
   <img src="banner.png" width="100%" />
 </p>
 
----
 
 ## 👋 Hi, I'm Aires
 
-Senior Backend & Distributed Systems Engineer focused on building observable, resilient systems in production.
+I design and ship systems that are:
 
-I design systems that:
+- reliable under load
+- observable in production
+- safe to evolve
+- measurable by default
+- built around real business workflows
 
-- Fail safely  
-- Ship incrementally  
-- Are measurable by default  
-- Evolve without fear  
-
-My work spans event-driven architecture, ML systems in production, and full-stack delivery — but always with operability and reliability at the core.
+My work sits at the intersection of backend engineering, internal platforms, and product delivery — with a strong focus on performance, reliability, and operational clarity.
 
 ---
 
-## 🏗 Featured Systems
+## What I Build
 
-### 🔹 ML Observable Prediction Platform
-Production-ready ML system with:
-- Shadow traffic rollout
-- Drift monitoring
-- Kill-switch mechanisms
-- Full tracing and metrics
+I build software that solves operational problems and supports real teams in production.
 
-Designed to treat ML as production software — not experimentation.
+That usually means:
 
-### 🔹 .NET Observability API
-ASP.NET Core API instrumented with:
-- OpenTelemetry tracing
-- Prometheus metrics
-- Grafana dashboards
-- Structured logging
+- backend platforms powering internal tools and customer-facing systems
+- workflow systems with clear business rules, auditability, and automation
+- APIs designed for reliability, performance, and long-term maintainability
+- event-driven services built for resilience and safe failure handling
+- operational dashboards, observability, and production diagnostics
+- systems that are designed to be owned, monitored, and improved over time
 
-Built to demonstrate production-grade observability from day one.
+---
 
-### 🔹 Event-Driven Microservices System
-RabbitMQ-based architecture implementing:
-- Transactional outbox
-- Idempotent consumers
-- Retry and backoff strategies
-- Distributed observability
+## Featured Projects
+
+### OpsFlow *(in progress)*
+Workflow and task orchestration platform built for internal operations teams.
+
+**Focus:** workflow automation, approvals, SLA rules, audit trails, reporting
+
+**Stack:** Django, PostgreSQL, Redis, Celery, HTMX, Docker
+
+---
+
+### CartScale *(in progress)*
+Production-style shopping cart and checkout system designed around concurrency, idempotency, and safe state transitions.
+
+**Focus:** stock reservation, retry safety, checkout consistency, async processing
+
+**Stack:** Django, PostgreSQL, Redis, Celery, DRF, Docker
+
+---
+
+### ML Observable Prediction Platform
+Production-style ML system for operational prediction with drift monitoring, safe rollout, and observable inference.
+
+**Focus:** prediction APIs, monitoring, safe rollout, production ML
+
+**Stack:** Python, FastAPI, PostgreSQL, Docker, Prometheus, Grafana
+
+---
+
+### EventFlow
+Event-driven backend architecture with transactional outbox, idempotent consumers, retries, and structured observability.
+
+**Focus:** resilient messaging, event processing, distributed reliability
+
+**Stack:** .NET, RabbitMQ, PostgreSQL, OpenTelemetry, Grafana
+
+---
+
+### .NET Observability API
+Production-style ASP.NET Core API demonstrating tracing, metrics, structured logging, and service diagnostics.
+
+**Focus:** observability, tracing, production diagnostics
+
+**Stack:** .NET, OpenTelemetry, Prometheus, Grafana, Loki
+
+---
+
+## Engineering Focus
+
+My main areas of interest:
+
+- backend architecture
+- workflow and operational systems
+- distributed systems
+- observability and diagnostics
+- event-driven design
+- production reliability
+- system performance
+- practical ML in production
+
+---
+
+## Current Focus
+
+Right now I’m focused on building and documenting production-style systems that reflect how modern software is actually designed, shipped, and operated.
+
+That includes:
+
+- workflow platforms
+- scalable backend systems
+- operational tooling
+- production-grade APIs
+- reliability-first architecture
+
+---
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/aires-neto-2750b2b0
+- GitHub: https://github.com/aneto-dev
 
 ---
 
