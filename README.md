@@ -34,7 +34,7 @@ That usually means:
 
 ## Featured Projects
 
-### OpsFlow *(in progress)*
+### OpsFlow *(Currently in development)*
 Workflow and task orchestration platform built for internal operations teams.
 
 **Focus:** workflow automation, approvals, SLA rules, audit trails, reporting
@@ -43,7 +43,7 @@ Workflow and task orchestration platform built for internal operations teams.
 
 ---
 
-### CartScale *(in progress)*
+### CartScale *(Currently in development)*
 Production-style shopping cart and checkout system designed around concurrency, idempotency, and safe state transitions.
 
 **Focus:** stock reservation, retry safety, checkout consistency, async processing
@@ -94,7 +94,7 @@ My main areas of interest:
 
 ---
 
-## Current Focus
+## What I’m Focused On
 
 Right now I’m focused on building and documenting production-style systems that reflect how modern software is actually designed, shipped, and operated.
 
@@ -105,21 +105,6 @@ That includes:
 - operational tooling
 - production-grade APIs
 - reliability-first architecture
-
----
-
-## Connect
-
-- LinkedIn: https://linkedin.com/in/aires-neto-2750b2b0
-- GitHub: https://github.com/aneto-dev
-
----
-
-## GitHub Activity
-
-I keep this profile focused on production-quality projects and documentation.  
-For the most important work, see the pinned repositories above.
-
 
 ---
 
@@ -145,10 +130,13 @@ For the most important work, see the pinned repositories above.
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aneto-dev&theme=radical" />
-</p>
+## Connect
+
+- LinkedIn: https://linkedin.com/in/aires-neto-2750b2b0
+- GitHub: https://github.com/aneto-dev
 
 ---
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aneto-dev&theme=radical" />
+</p>
