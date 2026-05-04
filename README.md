@@ -151,7 +151,4 @@ For the most important work, see the pinned repositories above.
 
 ---
 
-## Connect
 
-- LinkedIn: https://linkedin.com/in/aires-neto-2750b2b0  
-- GitHub: https://github.com/aneto-dev
