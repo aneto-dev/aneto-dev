@@ -9,11 +9,9 @@ I design and ship systems that are:
 
 - reliable under load
 - observable in production
-- safe to evolve
-- measurable by default
 - built around real business workflows
 
-My work sits at the intersection of backend engineering, internal platforms, and product delivery — with a strong focus on performance, reliability, and operational clarity.
+My work sits at the intersection of backend engineering, internal platforms and product delivery — with a strong focus on performance, reliability and operational clarity.
 
 ---
 
@@ -24,11 +22,11 @@ I build software that solves operational problems and supports real teams in pro
 That usually means:
 
 - backend platforms powering internal tools and customer-facing systems
-- workflow systems with clear business rules, auditability, and automation
-- APIs designed for reliability, performance, and long-term maintainability
+- workflow systems with clear business rules, auditability and automation
+- APIs designed for reliability, performance and long-term maintainability
 - event-driven services built for resilience and safe failure handling
 - operational dashboards, observability, and production diagnostics
-- systems that are designed to be owned, monitored, and improved over time
+- systems that are designed to be owned, monitored and improved over time
 
 ---
 
@@ -71,7 +69,7 @@ Event-driven backend architecture with transactional outbox, idempotent consumer
 ---
 
 ### .NET Observability API
-Production-style ASP.NET Core API demonstrating tracing, metrics, structured logging, and service diagnostics.
+Production-style ASP.NET Core API demonstrating tracing, metrics, structured logging and service diagnostics.
 
 **Focus:** observability, tracing, production diagnostics
 
