@@ -34,12 +34,12 @@ That usually means:
 
 ## Featured Projects
 
-### OpsFlow *(Currently in development)*
+### OpsFlow
 Workflow and task orchestration platform built for internal operations teams.
 
 **Focus:** workflow automation, approvals, SLA rules, audit trails, reporting
 
-**Stack:** Django, PostgreSQL, Redis, Celery, HTMX, Docker
+**Stack:** Django, PostgreSQL, Docker
 
 ---
 
@@ -96,7 +96,7 @@ My main areas of interest:
 
 ## What I’m Focused On
 
-Right now I’m focused on building and documenting production-style systems that reflect how modern software is actually designed, shipped, and operated.
+Right now I’m focused on building and documenting production-style systems that reflect how modern software is actually designed, shipped and operated.
 
 That includes:
 
