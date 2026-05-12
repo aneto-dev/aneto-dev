@@ -133,7 +133,7 @@ That includes:
 ## Connect
 
 - LinkedIn: [linkedin.com/in/aires-neto-2750b2b0](https://linkedin.com/in/aires-neto-2750b2b0)
-- GitHub: [github.com/aneto-dev](https://github.com/aneto-dev)
+- GitHub: [portfolio](https://aneto-dev.github.io/aires-portfolio/)
 
 ---
 
