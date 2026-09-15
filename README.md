@@ -1,94 +1,63 @@
-# Aires Neto
+# Hi, I'm Aires 👋
 
 ### Senior Software Engineer
 
-**Distributed Systems · .NET · Python · Cloud Architecture**
+I have spent more than 10 years building and supporting software that sits close to day to day business operations.
 
-I’m a software engineer with 10+ years of experience, mainly working with C# and .NET on business-critical systems.
+Most of my background is in C# and .NET, but these days I also spend a lot of time with Python, distributed systems, cloud architecture and AI engineering.
 
-Most of my work has involved taking fairly complicated business processes and turning them into software that people can actually operate and support — order management, internal platforms, APIs, integrations, and the less visible parts of systems such as reliability, diagnostics, and production support.
+A lot of the problems I enjoy are not especially glamorous from the outside. Orders getting stuck between systems. Payments timing out. Messages arriving twice. A production issue where the logs tell you almost everything except the thing you actually need to know.
 
-More recently, I’ve been spending more time on distributed systems, domain-driven design, cloud architecture, Python, and AI engineering.
+That is usually where software gets interesting.
 
 [Portfolio](https://aneto-dev.github.io/aires-portfolio/) · [LinkedIn](https://linkedin.com/in/aires-neto-2750b2b0)
 
 ---
 
-## What I’m working on
+## What I care about
 
-### OrderForge
+I like software that is understandable when it is working and still understandable when it is not.
 
-**Distributed commerce and fulfilment platform — currently in design and development**
+That tends to pull me towards:
 
-OrderForge is my main portfolio project. I’m building it around the sort of problems that make commerce systems interesting beyond the storefront: orders, inventory reservations, payments, fulfilment, cancellations, returns, refunds, retries, duplicated messages, partial failure, and operational recovery.
+- business rules and domain boundaries that are clear in the code
+- distributed workflows that expect retries, duplicates and partial failure
+- APIs and backend platforms that are easy to operate as well as build
+- useful logs, traces and metrics instead of observability for show
+- incremental modernisation rather than rewriting everything because the old system looks untidy
+- tests and delivery practices that make the next change safer
 
-The aim is to show the engineering decisions as much as the finished software — where consistency matters, where eventual consistency is acceptable, how workflows recover when something goes wrong, and how the system is observed and operated in production.
-
-**Planned stack:** .NET · PostgreSQL · event-driven messaging · OpenTelemetry · Docker · Azure · Next.js
-
-I’m developing it in stages, so I’ll publish architecture, code, tests, deployment evidence, and the public demo as those milestones are actually completed.
-
----
-
-## Selected projects
-
-### [OpsFlow](https://github.com/aneto-dev/opsflow)
-
-A Django workflow approval engine built around reusable workflows, ordered approval steps, actor-based task assignment, and decision history.
-
-**Python · Django · workflow design · access control · auditability**
-
-### [EventFlow](https://github.com/aneto-dev/eventflow-event-driven-system)
-
-A .NET project exploring the reliability concerns behind event-driven systems, including transactional outbox patterns, idempotent consumers, retries, and observability.
-
-**.NET · RabbitMQ · PostgreSQL · OpenTelemetry**
-
-### [.NET Observability API](https://github.com/aneto-dev/dotnet-observability-api)
-
-An ASP.NET Core project focused on making application behaviour visible through traces, metrics, structured logs, and service diagnostics.
-
-**.NET · OpenTelemetry · Prometheus · Grafana · Loki · Docker**
+I am not particularly interested in adding technology just to make an architecture diagram busier. If a queue, cache or extra service is there, I want to be able to explain what problem it solves.
 
 ---
 
-## How I like to build software
+## What I'm working towards
 
-I’m most interested in systems where correctness and operability matter. That usually means thinking about things such as:
+I am deliberately keeping my public work smaller and deeper rather than collecting lots of small demo repositories.
 
-- domain boundaries and business rules
-- distributed workflows and failure recovery
-- consistency, concurrency, and idempotency
-- API and backend platform design
-- observability and production diagnostics
-- automated testing and safe delivery
-- incremental modernisation of existing systems
+The areas I am going deeper on are distributed systems, architecture, security, observability and AI engineering. I want the repositories here to show the decisions, trade-offs and failure cases behind the code, not just the finished happy path.
 
-I try not to add technology just because it looks good on an architecture diagram. If a queue, cache, workflow engine, or extra service is there, it should be solving a problem that can be explained clearly.
+That also means this profile will change over time. Stronger projects will replace older ones as they earn their place.
 
 ---
 
-## Technologies I work with
+## Tools I reach for
 
-**Backend:** C# · .NET · ASP.NET Core · Python · Django  
+**Backend:** C# · .NET · ASP.NET Core · Python · Django · FastAPI  
 **Data:** SQL Server · PostgreSQL · Redis  
-**Architecture:** DDD · event-driven systems · distributed workflows · REST APIs  
+**Messaging and workflows:** RabbitMQ · background processing · event-driven systems  
+**Cloud and delivery:** Azure · Docker · CI/CD  
 **Observability:** OpenTelemetry · Prometheus · Grafana · Loki · Elasticsearch  
-**Cloud & delivery:** Azure · Docker · CI/CD  
-**Web:** TypeScript · Next.js · React
+**Web:** TypeScript · Next.js · Vue
 
 ---
 
-## What’s next
+## A small thing I still enjoy
 
-I’m rebuilding this portfolio around a smaller number of deeper projects rather than collecting lots of small demo applications.
-
-OrderForge is the first flagship project. After that, I plan to add work around AI engineering and repository intelligence, followed by a dedicated observability and incident-operations platform.
-
-The goal is for the repositories to show how I think about software, not just which technologies I’ve used.
+Following a bug across a few services, a database and a queue until the one assumption nobody wrote down finally becomes obvious.
 
 ---
 
-## Contact
+## Find me
 
 [Portfolio](https://aneto-dev.github.io/aires-portfolio/) · [LinkedIn](https://linkedin.com/in/aires-neto-2750b2b0)
