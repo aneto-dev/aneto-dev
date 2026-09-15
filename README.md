@@ -1,140 +1,94 @@
-<!-- <p align="center">
-  <img src="banner.png" width="100%" />
-</p> -->
+# Aires Neto
 
+### Senior Software Engineer
 
-## 👋 Hi, I'm Aires
+**Distributed Systems · .NET · Python · Cloud Architecture**
 
-I design and ship systems that are:
+I’m a software engineer with 10+ years of experience, mainly working with C# and .NET on business-critical systems.
 
-- reliable under load
-- observable in production
-- built around real business workflows
+Most of my work has involved taking fairly complicated business processes and turning them into software that people can actually operate and support — order management, internal platforms, APIs, integrations, and the less visible parts of systems such as reliability, diagnostics, and production support.
 
-My work sits at the intersection of backend engineering, internal platforms and product delivery — with a strong focus on performance, reliability and operational clarity.
+More recently, I’ve been spending more time on distributed systems, domain-driven design, cloud architecture, Python, and AI engineering.
 
----
-
-## What I Build
-
-I build software that solves operational problems and supports real teams in production.
-
-That usually means:
-
-- backend platforms powering internal tools and customer-facing systems
-- workflow systems with clear business rules, auditability and automation
-- APIs designed for reliability, performance and long-term maintainability
-- event-driven services built for resilience and safe failure handling
-- operational dashboards, observability, and production diagnostics
-- systems that are designed to be owned, monitored and improved over time
+[Portfolio](https://aneto-dev.github.io/aires-portfolio/) · [LinkedIn](https://linkedin.com/in/aires-neto-2750b2b0)
 
 ---
 
-## Featured Projects
+## What I’m working on
 
-### OpsFlow
-Workflow and task orchestration platform built for internal operations teams.
+### OrderForge
 
-**Focus:** workflow automation, approvals, SLA rules, audit trails, reporting
+**Distributed commerce and fulfilment platform — currently in design and development**
 
-**Stack:** Django, PostgreSQL, Docker
+OrderForge is my main portfolio project. I’m building it around the sort of problems that make commerce systems interesting beyond the storefront: orders, inventory reservations, payments, fulfilment, cancellations, returns, refunds, retries, duplicated messages, partial failure, and operational recovery.
 
----
+The aim is to show the engineering decisions as much as the finished software — where consistency matters, where eventual consistency is acceptable, how workflows recover when something goes wrong, and how the system is observed and operated in production.
 
-### CartScale *(Currently in development)*
-Production-style shopping cart and checkout system designed around concurrency, idempotency, and safe state transitions.
+**Planned stack:** .NET · PostgreSQL · event-driven messaging · OpenTelemetry · Docker · Azure · Next.js
 
-**Focus:** stock reservation, retry safety, checkout consistency, async processing
-
-**Stack:** Django, PostgreSQL, Redis, Celery, DRF, Docker
+I’m developing it in stages, so I’ll publish architecture, code, tests, deployment evidence, and the public demo as those milestones are actually completed.
 
 ---
 
-### ML Observable Prediction Platform
-Production-style ML system for operational prediction with drift monitoring, safe rollout, and observable inference.
+## Selected projects
 
-**Focus:** prediction APIs, monitoring, safe rollout, production ML
+### [OpsFlow](https://github.com/aneto-dev/opsflow)
 
-**Stack:** Python, FastAPI, PostgreSQL, Docker, Prometheus, Grafana
+A Django workflow approval engine built around reusable workflows, ordered approval steps, actor-based task assignment, and decision history.
 
----
+**Python · Django · workflow design · access control · auditability**
 
-### EventFlow
-Event-driven backend architecture with transactional outbox, idempotent consumers, retries, and structured observability.
+### [EventFlow](https://github.com/aneto-dev/eventflow-event-driven-system)
 
-**Focus:** resilient messaging, event processing, distributed reliability
+A .NET project exploring the reliability concerns behind event-driven systems, including transactional outbox patterns, idempotent consumers, retries, and observability.
 
-**Stack:** .NET, RabbitMQ, PostgreSQL, OpenTelemetry, Grafana
+**.NET · RabbitMQ · PostgreSQL · OpenTelemetry**
 
----
+### [.NET Observability API](https://github.com/aneto-dev/dotnet-observability-api)
 
-### .NET Observability API
-Production-style ASP.NET Core API demonstrating tracing, metrics, structured logging and service diagnostics.
+An ASP.NET Core project focused on making application behaviour visible through traces, metrics, structured logs, and service diagnostics.
 
-**Focus:** observability, tracing, production diagnostics
-
-**Stack:** .NET, OpenTelemetry, Prometheus, Grafana, Loki
+**.NET · OpenTelemetry · Prometheus · Grafana · Loki · Docker**
 
 ---
 
-## Engineering Focus
+## How I like to build software
 
-My main areas of interest:
+I’m most interested in systems where correctness and operability matter. That usually means thinking about things such as:
 
-- backend architecture
-- workflow and operational systems
-- distributed systems
-- observability and diagnostics
-- event-driven design
-- production reliability
-- system performance
-- practical ML in production
+- domain boundaries and business rules
+- distributed workflows and failure recovery
+- consistency, concurrency, and idempotency
+- API and backend platform design
+- observability and production diagnostics
+- automated testing and safe delivery
+- incremental modernisation of existing systems
 
----
-
-## What I’m Focused On
-
-Right now I’m focused on building and documenting production-style systems that reflect how modern software is actually designed, shipped and operated.
-
-That includes:
-
-- workflow platforms
-- scalable backend systems
-- operational tooling
-- production-grade APIs
-- reliability-first architecture
+I try not to add technology just because it looks good on an architecture diagram. If a queue, cache, workflow engine, or extra service is there, it should be solving a problem that can be explained clearly.
 
 ---
 
-## Core Stack
+## Technologies I work with
 
-### Backend & APIs
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Messaging
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### Observability
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+**Backend:** C# · .NET · ASP.NET Core · Python · Django  
+**Data:** SQL Server · PostgreSQL · Redis  
+**Architecture:** DDD · event-driven systems · distributed workflows · REST APIs  
+**Observability:** OpenTelemetry · Prometheus · Grafana · Loki · Elasticsearch  
+**Cloud & delivery:** Azure · Docker · CI/CD  
+**Web:** TypeScript · Next.js · React
 
 ---
 
-## Connect
+## What’s next
 
-- LinkedIn: [linkedin.com/in/aires-neto-2750b2b0](https://linkedin.com/in/aires-neto-2750b2b0)
-- GitHub: [portfolio](https://aneto-dev.github.io/aires-portfolio/)
+I’m rebuilding this portfolio around a smaller number of deeper projects rather than collecting lots of small demo applications.
+
+OrderForge is the first flagship project. After that, I plan to add work around AI engineering and repository intelligence, followed by a dedicated observability and incident-operations platform.
+
+The goal is for the repositories to show how I think about software, not just which technologies I’ve used.
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aneto-dev&theme=radical" />
-</p>
+## Contact
+
+[Portfolio](https://aneto-dev.github.io/aires-portfolio/) · [LinkedIn](https://linkedin.com/in/aires-neto-2750b2b0)
