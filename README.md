@@ -14,33 +14,6 @@ That is usually where software gets interesting to me.
 
 ---
 
-## What I care about
-
-I like software that is understandable when it is working and still understandable when it is not.
-
-That tends to pull me towards:
-
-- business rules and domain boundaries that are clear in the code
-- distributed workflows that expect retries, duplicates and partial failure
-- APIs and backend platforms that are easy to operate as well as build
-- useful logs, traces and metrics instead of observability for show
-- incremental modernisation rather than rewriting everything because the old system looks untidy
-- tests and delivery practices that make the next change safer
-
-I am not particularly interested in adding technology just to make an architecture diagram busier. If a queue, cache or extra service is there, I want to be able to explain what problem it solves.
-
----
-
-## What I'm working towards
-
-I am deliberately keeping my public work smaller and deeper rather than collecting lots of small demo repositories.
-
-The areas I am going deeper on are distributed systems, architecture, security, observability and AI engineering. I want the repositories here to show the decisions, trade-offs and failure cases behind the code, not just the finished happy path.
-
-That also means this profile will change over time. Stronger projects will replace older ones as they earn their place.
-
----
-
 ## Tools I reach for
 
 **Backend:** C# · .NET · ASP.NET Core · Python · Django · FastAPI  
